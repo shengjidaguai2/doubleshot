@@ -8,22 +8,7 @@ Hi, give me a doubleshot ☕.
 <p align="center">
 A split node backend and electron main process.
 <p>
-123
-12
-312
-31
-23
-12
-31
-23
-12
-31
-23
-12
-31
-23
-12
-3
+
 <br>
 
 ## Description
